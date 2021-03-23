@@ -16,30 +16,30 @@
 * CI/CD: Setting up things like Github Actions, Gitlab CI/CD
 
 ### Experience
-* Commercial product for automation of process mining Feb 2021 - Now
+* <b>Commercial product for automation of process mining Feb 2021 - Now</b><br>
 Position: Chief Developer<br>
 The project allows you to automate the process of working with big data. At the moment, I am engaged in the core of the system, using tools such as golang and docker <br>
-* Two medicial Projects. Nov 2018 — Jan 2021<br>
+* <b>Two medicial Projects. Nov 2018 — Jan 2021</b><br>
 Position:  Chief Developer<br>
 Design and development of a server to handle requests from the microscope and the browser. The server accepts JSON requests.<br>
 Connections were on the WebSocket from Gorilla.<br>
 Web framework — Labstack.<br>
 The program executed requests asynchronously, redirecting from the browser to the microscope.
 
-* Bot development for VK (Vkontakte) and Telegram Jan 2018 — Oct 2018
+* <b>Bot development for VK (Vkontakte) and Telegram Jan 2018 — Oct 2018</b>
 
-* Community bot (Vkontakte)<br>
+* <b>Community bot (Vkontakte)</b><br>
 Vkontakte community bot development with the following feature set:<br>
 •	Counting the number of likes, reposts and comments of every user<br>
 •	Giving a virtual currency<br>
 •	Admin panel: change the balance directly, change the percentage of the balance, check the balance of a particular user<br>
 For processing events from Vkontakte, the bot was able to work with both Callback and LongPoll. Initially kept in PythonAnyWhere, later on a dedicated PC. <br>
 
- * Comics recommendation bot (Vkontakte)
+ * <b>Comics recommendation bot (Vkontakte)</b>
 The bot could give recommendations on genres, type of the comic book
 The work was carried out through the Callback API. Kept in PythonAnyWhere.
 
-* GoLang server for chat<br>
+* <b>GoLang server for chat</b><br>
 Development of chat server with Golang implementation<br>
 Connections were on the WebSocket from Gorilla.<br>
 Database — MariaDB.<br>
